@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/daedafusion/hibernate-utils.svg?branch=master)](https://travis-ci.org/daedafusion/hibernate-utils)
 
+[![Coverage Status](https://coveralls.io/repos/github/daedafusion/hibernate-utils/badge.svg?branch=master)](https://coveralls.io/github/daedafusion/hibernate-utils?branch=master)
+
 # hibernate-utils
 
 Hibernate Utility Classes
